@@ -1,18 +1,17 @@
 
 import React,{ useState } from 'react';
-// import { useDispatch } from 'react-redux';
-// import { signIn } from '../redux/slice/auth.slice';
-
+import { useDispatch } from 'react-redux';
+import { signIn } from '../redux/slice/auth.slice';
 
 const Entrance = () => {
 
-//   const dispatch = useDispatch()
+  const dispatch = useDispatch()
 
-    const [name, setname] = useState('');
+  const [name, setname] = useState('');
     const [surname, setsurname] = useState('');
     const handleSubmit = (event) => {
-    //   dispatch(signIn({loggedIn:true,name:name,surname:surname}))
-    //   event.preventDefault();
+      dispatch(signIn({loggedIn:true,name:name,surname:surname}))
+      event.preventDefault();
       setsurname('')
       setname('')
     };

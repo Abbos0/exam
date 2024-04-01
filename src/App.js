@@ -1,14 +1,23 @@
-import './App.css';
-import Entrance from './pages/Entrance';
-import Question from './pages/Question';
+import React from 'react'
+import { useSelector } from 'react-redux'
 
-function App() {
+//components
+import Entrance from './pages/Entrance'
+import Question from './pages/Question'
+import Login from './pages/Login'
+const App = () => {
+
+  const {loggedIn} = useSelector(state=>state.auth)
+
+
   return (
-    <div className="App">
-      {/* <Entrance/> */}
-      <Question/>
+    <div>
+      {loggedIn ? <Question /> : <Entrance />}
+      {/* <Login/> */}
+      
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
+
