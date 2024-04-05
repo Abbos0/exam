@@ -1,12 +1,8 @@
-
 import React,{ useState } from 'react';
 import { useDispatch } from 'react-redux';
 import { signIn } from '../redux/slice/auth.slice';
-
 const Entrance = () => {
-
   const dispatch = useDispatch()
-
   const [name, setname] = useState('');
     const [surname, setsurname] = useState('');
     const handleSubmit = (event) => {
@@ -39,5 +35,3 @@ const Entrance = () => {
 };
 
 export default Entrance;
-
-

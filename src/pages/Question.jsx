@@ -59,7 +59,6 @@ const Next = () => {
             console.log(score);
     }
 }
-
 const Reset = () => {
     setIndex(1)
     setQuestion(data[0])
@@ -74,7 +73,6 @@ const Exit = () => {
     setScore(0)
     dispatch(signIn({loggedIn:false}))
 }
-
 useEffect(() => {
     if (seconds > 0) {
       const timer = setTimeout(() => {

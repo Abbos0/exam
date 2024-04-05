@@ -1,20 +1,14 @@
-import React from 'react'
-import { useSelector } from 'react-redux'
-
-//components
-import Entrance from './pages/Entrance'
-import Question from './pages/Question'
-import Login from './pages/Login'
+import React, { useState } from 'react';
+import Main from './compo/Main'
+import Password from './pages/Password';
 const App = () => {
-
-  const {loggedIn} = useSelector(state=>state.auth)
-
-
+  const [isLoggedIn, setIsLoggedIn] = useState(false);
+  const handleLogin = () => {
+    setIsLoggedIn(true);
+  };
   return (
     <div>
-      {loggedIn ? <Question /> : <Entrance />}
-      {/* <Login/> */}
-      
+      {isLoggedIn ? <Main/> : <Password onLogin={handleLogin} />}
     </div>
   )
 }
