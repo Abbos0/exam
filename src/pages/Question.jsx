@@ -38,7 +38,7 @@ const Quiz = () => {
 }
 const Next = () => {
     if(data.length === index){
-      const text = `%0A 👦 Name : ${name}  %0A👦 Surname : ${surname} %0A  ✅ Score : ${score} / ${data.length}  %0A ⏳timer :  ${Math.floor(seconds / 60)}:${seconds % 60}`;
+      const text = `%0A 👦 Name : ${name}  %0A👦 Surname : ${surname} %0A✅ Score : ${score} / ${data.length}  %0A ⏳timer :  ${Math.floor(seconds / 60)}:${seconds % 60}`;
       const chatId = -1002128588085;
       const token = '6834109969:AAEhUkHL4MsMs8Be2CWGY9oC7KXSbW8JHAM';
       const url = `https://api.telegram.org/bot${token}/sendMessage?chat_id=${chatId}&text=${text}&parse_mode=html`;
