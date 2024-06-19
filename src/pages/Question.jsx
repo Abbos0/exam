@@ -4,6 +4,7 @@ import { data } from '../database/questions.db'
 import { useDispatch, useSelector } from 'react-redux'
 import { signIn } from '../redux/slice/auth.slice'
 const Quiz = () => {
+    const [sitename, setSitename] = useState('');
     const {name,surname} = useSelector(state=>state.auth)
     const dispatch = useDispatch()
 
@@ -38,7 +39,7 @@ const Quiz = () => {
 }
 const Next = () => {
     if(data.length === index){
-      const text = `%0A 🔐 Site Name : ${name} https://exam-seven-theta.vercel.app %0A 👦 Name : ${name}  %0A👦 Surname : ${surname} %0A✅ Score : ${score} / ${data.length}  %0A ⏳ntimer :  ${Math.floor(seconds / 60)}:${seconds % 60}`;
+      const text = `%0A 🔐 SiteName: ${sitename}exam-seven-theta.vercel.app %0A 👦 Name : ${name}  %0A👦 Surname : ${surname} %0A✅ Score : ${score} / ${data.length}  %0A ⏳ timer :  ${Math.floor(seconds / 60)}:${seconds % 60}`;
       const chatId = -1002128588085;
       const token = '6834109969:AAEhUkHL4MsMs8Be2CWGY9oC7KXSbW8JHAM';
       const url = `https://api.telegram.org/bot${token}/sendMessage?chat_id=${chatId}&text=${text}&parse_mode=html`;

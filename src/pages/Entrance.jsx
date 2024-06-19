@@ -3,6 +3,7 @@ import { useDispatch } from 'react-redux';
 import { signIn } from '../redux/slice/auth.slice';
 const Entrance = () => {
   const dispatch = useDispatch()
+  const [sitename, setSitename] = useState('');
   const [name, setname] = useState('');
     const [surname, setsurname] = useState('');
     const handleSubmit = (event) => {
@@ -10,6 +11,7 @@ const Entrance = () => {
       event.preventDefault();
       setsurname('')
       setname('')
+      setSitename('');
     };
 
   return (
