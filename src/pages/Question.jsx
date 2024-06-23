@@ -143,15 +143,6 @@ const Quiz = () => {
                                         <div className='flex gap-1 px-2 font-medium text-[25px]'>
                                             {/* <h1 className=''>Question</h1> */}
                                             <h1 className=''>👀</h1>
-                                            <div className='p-3 bg-green'>
-                                    <h2 className=' text-start p-2 w-[105%]'>{index}. {question.question}</h2>
-                                        <div className='flex flex-col justify-start  '>
-                                            <p className='border-[4px] border-solid border-[#00f7ff] rounded-[20px] mb-4 bg-[white] text-[black] cursor-pointer' ref={Option1}  onClick={(e)=>checkAns(e,1)} >{question.option1}</p>
-                                            <p className='border-[4px] border-solid border-[#00f7ff] rounded-[20px] mb-4 bg-[white] text-[black] cursor-pointer' ref={Option2} onClick={(e)=>checkAns(e,2)} >{question.option2}</p>
-                                            <p className='border-[4px] border-solid border-[#00f7ff] rounded-[20px] mb-4 bg-[white] text-[black] cursor-pointer' ref={Option3}  onClick={(e)=>checkAns(e,3)} >{question.option3}</p>
-                                            <p className='border-[4px] border-solid border-[#00f7ff] rounded-[20px] mb-4 bg-[white] text-[black] cursor-pointer' ref={Option4}  onClick={(e)=>checkAns(e,4)} >{question.option4}</p>
-                                        </div>
-                                </div>
                                             <p>{index}</p>/<p className='text-[26px]'>{questions.length}</p>
                                         </div>
                                         <div className='p-3 bg-green'>
