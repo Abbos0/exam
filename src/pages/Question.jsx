@@ -96,7 +96,7 @@ const Quiz = () => {
         setLock(false);
         setResult(false);
         setScore(0);
-        setSeconds(2100);
+        setSeconds(2200);
     };
 
     const Exit = () => {
