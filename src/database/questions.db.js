@@ -5669,7 +5669,7 @@ export const data = [
             option4: "L. Vukolovich",
             ans: 1
           },
-          [
+          
             {
               question: "Yuqori haroratlarni o’lchaydigan asbob belgilansin…",
               option1: "Pirometr",
@@ -6662,7 +6662,7 @@ export const data = [
               option4: "Shiber",
               ans: 1
             },
-            
+
               {
                 question: "426*400*9 markali quvurda uchinchi raqam nimani belgilaydi",
                 option1: "Quvur devorchasini qalinligini",
