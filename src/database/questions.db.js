@@ -6927,18 +6927,5 @@ export const data = [
                 option4: "kuchlаnishlаrni hisоblаsh",
                 ans: 1
               }
-            
-            
-          ]
-          
-        
-        
-        
-        
-       
-      
-    
-    
-  
-  
+   
 ];
