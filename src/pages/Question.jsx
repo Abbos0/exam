@@ -141,7 +141,7 @@ const Quiz = () => {
                                 {question && (
                                     <div className='flex flex-col gap-3 py-10 mt-4 bg-[black] rounded-[20px]'>
                                         <div className='flex gap-1 px-2 font-medium text-[25px]'>
-                                            <h1 className=''>Question</h1>
+                                            <h1 className=''>BOSS</h1>
                                             <p>{index}</p>/<p className='text-[26px]'>{questions.length}</p>
                                         </div>
                                         <div className='flex p-2 bg-green'>
