@@ -128,7 +128,7 @@ useEffect(() => {
                             <div className='p-3 font-bold text-[30px] text-[red]'>
                                 {seconds > 0 ? ( <h1>{Math.floor(seconds / 60)}:{seconds % 60}</h1> ) : ( <h1>Timer finished!</h1>)}
                             </div>
-                            <p className='text-[white] font-bold bg-[green] text-[30px] mt-[-60px] w-[200px] rounded-[20px] cursor-pointer' onClick={Next}>Next 👉</p>
+                            <p className='text-[white] font-bold bg-[green] text-[30px] mt-[-60px] w-[200px] rounded-[20px] cursor-pointer' onClick={Next}> Next 👉</p>
                         </>
                     }
                         <div className='flex justify-center gap-5'>
