@@ -5307,7 +5307,1632 @@ export const data = [
           option3: "bug‘, freon",
           option4: "gaz, bug‘",
           ans: 1
-        }
+        },
+        
+          {
+            question: "Keng qo’llaniladigan isitish tizimlar -…",
+            option1: "Ikki quvurli, ochiq ulangan tarmoqlar",
+            option2: "Ko’p quvurli, ochiq ulangan tarmoqlar",
+            option3: "Ikki quvurli, yopiq ulangan tarmoqlar",
+            option4: "Bir quvurli, ochiq ulangan tarmoqlar",
+            ans: 1
+          },
+          {
+            question: "Dastlabki sinovni o’tkazish sharti …",
+            option1: "Salniklli kompensatorlar o’rnatilishidan oldin",
+            option2: "П simon kompensatorlar o’rnatilishidan oldin",
+            option3: "Klapanlar o’rnatilishidan oldin",
+            option4: "Zadvijkalar o’rnatilishidan oldin",
+            ans: 1
+          },
+          {
+            question: "Yakuniy sinovni o’tkazish sharti …",
+            option1: "Montajdan so’ng",
+            option2: "Salniklli kompensatorlar o’rnatilishidan oldin",
+            option3: "П simon kompensatorlar o’rnatilishidan oldin",
+            option4: "Klapanlar o’rnatilishidan oldin",
+            ans: 1
+          },
+          {
+            question: "Sinovlarni o’tkazishga ruxsat etilgan eng past harorati …",
+            option1: "5ºC",
+            option2: "8ºC",
+            option3: "10ºC",
+            option4: "4ºC",
+            ans: 1
+          },
+          {
+            question: "Issiqlik tarmoqlarni sinov turlari …",
+            option1: "Opressovka, gidravlik, issiqlik, hisobiy haroratga sinash.",
+            option2: "Gidravlik, issiqlik, hisobiy haroratga sinash.",
+            option3: "Opressovka, gidravlik, issiqlik.",
+            option4: "Opressovka, issiqlik, hisobiy haroratga sinash",
+            ans: 1
+          },
+          {
+            question: "426*400*9 markali quvurda birinchi raqam nimani belgilaydi",
+            option1: "Quvurning tashqi diametrini",
+            option2: "Quvurning ichki diametrini",
+            option3: "Quvur devorchasini qalinligini",
+            option4: "Suvning bosimini",
+            ans: 1
+          },
+          {
+            question: "426*400*9 markali quvurda ikkinchi raqam nimani belgilaydi",
+            option1: "Quvurning ichki diametrini",
+            option2: "Quvurning tashqi diametrini",
+            option3: "Quvur devorchasini qalinligini",
+            option4: "Suvning bosimini",
+            ans: 1
+          },
+          {
+            question: "Tarmoqning issiqlik hisobning vazifasi nimadan iborat?",
+            option1: "tarmoqdagi issiqlik yo’qotilishlarini aniqlab issiqlik izolyatsiyasini tanlashga;",
+            option2: "ma‘lum bo’lgan issiqlik tashuvchining sarfi va tarmoqdagi bosim yo’qotilishlari bo’yicha quvur diametrlarini aniqlashga;",
+            option3: "sistemaning turli nuqtalarida bosim va sarf orasidagi bog’lanishlarga;",
+            option4: "issiqlik izolyatsiyasiga uzatilgan issiqlik uzgarmas miqdorda atrof muxitga uzatilishiga",
+            ans: 1
+          },
+          {
+            question: "Aholining issiqlikka bo’lgan talabini qo’ndirish uchun qanday qurilmalardan foydalaniladi?",
+            option1: "suv qizdirish qozonxonalari va IEM dan.",
+            option2: "faqat suv qizdirish qozonxonalaridan;",
+            option3: "T turbinali ES dan;",
+            option4: "faqat IEM dan",
+            ans: 1
+          },
+          {
+            question: "Organik yoqilg’ida ishlaydigan issiqlik manbalar…",
+            option1: "IES;. TQ",
+            option2: "KES; GES",
+            option3: "AES; gelio stansiyalar;",
+            option4: "GES; AES",
+            ans: 1
+          },
+          {
+            question: "Issiqlik tarmoqlarni issiqlik sinovida nimalar o’lchanadi?",
+            option1: "Quvurni boshida va oxirida suvning sarfi va harorati;",
+            option2: "Quvurni boshida va oxirida suvning bosimi, sarfi va harorati;",
+            option3: "Quvurni boshida suvning sarfi va harorati;",
+            option4: "Quvurni boshida va oxirida suvning bosimi va sarfi",
+            ans: 1
+          },
+          {
+            question: "Issiqlik tarmoqlarni gidravlik sinovida nimalar o’lchanadi?",
+            option1: "Quvurni boshida va oxirida suvning bosimi, sarfi va harorati;",
+            option2: "Quvurni boshida va oxirida suvning sarfi va harorati",
+            option3: "Quvurni boshida suvning sarfi va harorati;",
+            option4: "Quvurni boshida va oxirida suvning bosimi va sarfi",
+            ans: 1
+          },
+          {
+            question: "Tarmoq suvi nima yordamida dezenfeksiyalanadi?",
+            option1: "Faol xlor;",
+            option2: "Osh tuzi;",
+            option3: "Magniy eritmasi;",
+            option4: "Oltingugurt eritmasi.",
+            ans: 1
+          },
+          {
+            question: "Odatda suvli tarmoqlarda qaysi birktirish armaturasi qo’llaniladi",
+            option1: "Zulfinlar",
+            option2: "Ventil",
+            option3: "Drossel",
+            option4: "Shiber",
+            ans: 1
+          },
+          {
+            question: "Odatda bug’li tarmoqlarda qaysi birktirish armaturasi qo’llaniladi",
+            option1: "Ventil",
+            option2: "Zulfinlar",
+            option3: "Drossel",
+            option4: "Shiber",
+            ans: 1
+          },
+          {
+            question: "426*400*9 markali quvurda uchinchi raqam nimani belgilaydi",
+            option1: "Quvur devorchasini qalinligini",
+            option2: "Quvurning ichki diametrini",
+            option3: "Quvurning tashqi diametrini",
+            option4: "Suvning bosimini",
+            ans: 1
+          },
+          {
+            question: "Issiqlik tarmoqlarni ishga turishini ruxsat beruvchi tashkilot –",
+            option1: "Davlat hay’ati",
+            option2: "Shahar hokimiyati",
+            option3: "Mahalla hay’ati",
+            option4: "Qurvchi tashkilot",
+            ans: 1
+          },
+          {
+            question: "Issiqlik ta‘minoti tizimlari boshqarmasida ulanishlar xizmati kimga bo’ysunadi?",
+            option1: "Bosh muxandisga;",
+            option2: "Direktorga;",
+            option3: "Devonxonaga;",
+            option4: "Reja – iqtisod bo’limiga;",
+            ans: 1
+          },
+          {
+            question: "Shtatlar soni deb nimaga aytiladi?",
+            option1: "Issiqlik tarmog’iga ulangan yuklamaning 1 Gkal/soatiga to’g’ri kelgan xodimlar soniga aytiladi;",
+            option2: "Issiqlik tarmog’iga ulangan yuklamaning 10 Gkal/soatiga to’g’ri kelgan xodimlar soniga aytiladi;",
+            option3: "Issiqlik tarmog’iga ulangan yuklamaning 10 Gkal/soatiga to’g’ri kelgan xodimlar soniga aytiladi;",
+            option4: "Issiqlik tarmog’iga ulangan yuklamaning 10 % Gkal/soatiga to’g’ri kelgan xodimlar soniga aytiladi",
+            ans: 1
+          },
+          {
+            question: "Keng qo’llaniladigan ichki isitish tizimlar -…",
+            option1: "П –simon tik quvurli tizimlar",
+            option2: "P –simon tik quvurli tizimlar",
+            option3: "П –simon gorizontal quvurli tizimlar",
+            option4: "Tik quvurli tizimlar.",
+            ans: 1
+          },
+          {
+            question: "Bug’ bilan isitish tizimlarida bug’ning harorati … oshmasligi kerak",
+            option1: "130ºC",
+            option2: "155ºC",
+            option3: "180ºC",
+            option4: "190ºC.",
+            ans: 1
+          },
+          {
+            question: "Havo bilan isitish tizimlarida havoning harorati …",
+            option1: "60ºC",
+            option2: "55ºC",
+            option3: "80ºC",
+            option4: "90ºC",
+            ans: 1
+          },
+          {
+            question: "Havo qizdiruvchi qurilma…",
+            option1: "kalorifer",
+            option2: "ventilyator",
+            option3: "Issiqlik almashinuv apparati",
+            option4: "Ekonamayzr",
+            ans: 1
+          },
+          {
+            question: "Noan’aviy isitish manbalar…",
+            option1: "Quyosh, geotermal suvlar",
+            option2: "Quyosh, suyuq yoqig’i, suvlari",
+            option3: "Quyosh, mazut",
+            option4: "Quyosh, shamol.",
+            ans: 1
+          },
+          {
+            question: "Quyosh isitish tizimlari radiatsiyadan foydalanishi bo’yicha qanday turlarga bo’linadi…",
+            option1: "Passiv va aktiv",
+            option2: "Kollektorli va kollektorsiz",
+            option3: "Radiatsiyalangan va radiatsiya tushmaydigan",
+            option4: "Passiv va aktiv va zonali.",
+            ans: 1
+          },
+          {
+            question: "Bino ichidagi havo harorati quyidagiga bog’liq bo’ladi",
+            option1: "isitiladigan binoning vazifasiga;",
+            option2: "tashqi havo haroratiga;",
+            option3: "issiqlik tashuvchi turiga;",
+            option4: "isitish tizimining ulanishiga.",
+            ans: 1
+          },
+          {
+            question: "Aholining issiqlikka bo’lgan talabini ko’ndirish uchun qanday qurilmalardan foydalaniladi?",
+            option1: "suv qizdirish qozonxonalari va IEM dan.",
+            option2: "faqat suv qizdirish qozonxonalaridan;",
+            option3: "T turbinali ES dan;",
+            option4: "faqat IEM dan",
+            ans: 1
+          },
+          {
+            question: "Oqim turini (laminar yoki turbulent) aniqlash uchun qaysi kreteriydan foydalaniladi…",
+            option1: "Reynolds",
+            option2: "Prandtl",
+            option3: "Nusselt",
+            option4: "Fure",
+            ans: 1
+          },
+          {
+            question: "Quvurning ekvivalent diametrning miqdori qaysi ko’rsatkichlarga bog’liq?",
+            option1: "quvurning ko’ndalang qirqim yuzasiga va namlangan perimetrga",
+            option2: "quvurning ko’ndalang qirqim yuzasiga va quvur qalinligiga",
+            option3: "namlangan perimetrga va quvur qalinligiga",
+            option4: "namlangan perimetrga va quvur uzunligiga",
+            ans: 1
+          },
+          {
+            question: "Texnologik extiyojlar uchun issiqlik sarfi qaysi ko’rsatkichlar kiradi?",
+            option1: "Korxonani unumdorligi va bir maxsulot uchun sarflanadigan issiqlik miqdori",
+            option2: "Korxonani unumdorligi va xodimlar soni",
+            option3: "Korxonani quvvati va bir maxsulot uchun sarflanadigan issiqlik miqdori",
+            option4: "Korxonani elektr energiya sarfi va bir maxsulot uchun sarflanadigan issiqlik miqdori",
+            ans: 1
+          },
+          {
+            question: "Nechanchi yillarda O‘rta Osiyoda markazlashtirilgan issiqlik ta’minoti rivojlana boshladi?",
+            option1: "1928-1930 yillarda",
+            option2: "1930-1941 yillarda",
+            option3: "1920-1930 yillarda",
+            option4: "1918-1930 yillarda",
+            ans: 1
+          },
+          {
+            question: "Qachonga markazlashtirilgan issiqlik ta’minoti g‘oyasining paydo bo‘lishi to‘g‘ri kеladi?",
+            option1: "1877 yili AQSh ning Lokport shahrida markazlashtirilgan issiqlik ta’minoti uchun birinchi qurilma barpo etildi",
+            option2: "1777 yili AQSh ning Lokport shahrida markazlashtirilgan issiqlik ta’minoti uchun birinchi qurilma barpo etildi",
+            option3: "1907 yili Sankt-Peterburg shahrida markazlashtirilgan issiqlik ta’minoti uchun birinchi qurilma barpo etildi",
+            option4: "1877 yili Moskva shahrida markazlashtirilgan issiqlik ta’minoti uchun birinchi qurilma barpo etildi",
+            ans: 1
+          },
+          {
+            question: "IEM da issiqlik va elеktr enеrgiyasini qurama usulda ishlab chiqarish uchun yoqilg‘ining umuiy sarfi quyidagilardan iborat…",
+            option1: "elеktr enеrgiyasini va issiqlik ishlab chiqarish uchun yoqilg‘i sarflarning yig’indisi",
+            option2: "elеktr enеrgiyasini va issiqlik ishlab chiqarish uchun yoqilg‘i sarflarning ko’paytmasi",
+            option3: "elеktr enеrgiyasini va issiqlik ishlab chiqarish uchun yoqilg‘i sarflarning ayirmasi",
+            option4: "elеktr enеrgiyasini va issiqlik ishlab chiqarish uchun yoqilg‘i sarflarning farqi",
+            ans: 1
+          },
+          {
+            question: "Shartli yoqilg’i deb nimaga aytiladi?",
+            option1: "Issiqlik ajratishi 7000 kkal/kg ga teng bo’lgan yoqilg’i",
+            option2: "Issiqlik ajratishi 7003 kkal ga teng bo’lgan yoqilg’i",
+            option3: "Issiqlik ajratishi 7000 kj/kg ga teng bo’lgan yoqilg’i",
+            option4: "Issiqlik ajratishi 7050 kkal/kg ga teng bo’lgan yoqilg’i",
+            ans: 1
+          },
+          {
+            question: "Qaysi yuklamaning sarfi hafta davomida o‘rtacha sarfi uning bir kеcha-kunduzdagi mе’yori asosida aniqlanadi?",
+            option1: "issiq suv",
+            option2: "isitish",
+            option3: "ventilyatsiya",
+            option4: "texnologik extiyojlar",
+            ans: 1
+          },
+          {
+            question: "Tеxnologik extiyojlarga ishlatiladigan issiqlik nimalarga bog’lik?",
+            option1: "jarayonning xususiyatga, ishlab chiqarish jihozlarining turiga, ishni tashkil qilish darajasiga va boshqalarga bog‘liq bo’ladi",
+            option2: "jarayonning xususiyatga, ishlab chiqarish jihozlarining turiga, ishni tashkil qilish darajasiga va tashqi havo haroratiga bog‘liq bo’ladi",
+            option3: "ishlab chiqarish jihozlarining turiga, ishni tashkil qilish darajasiga va boshqalarga bog‘liq bo’ladi",
+            option4: "jarayonning xususiyatga, tashqi havo haroratiga, ishni tashkil qilish darajasiga va boshqalarga bog‘liq bo’ladi",
+            ans: 1
+          },
+          {
+            question: "Turar joy binolarida isitish uchun sarflanadigan maksimal issiqlik oqimi nimalarga bog’liq?",
+            option1: "binoning solishtirma issiqlik tavsifi, ichki va tashqi havoning hisobiy haroratlariga, binoning tashqi hajmiga",
+            option2: "ichki va tashqi havoning hisobiy haroratlariga, binoning tashqi hajmiga",
+            option3: "binoning solishtirma issiqlik tavsifi, ichki havoning hisobiy haroratiga, binoning tashqi hajmiga",
+            option4: "binoning solishtirma issiqlik tavsifi, ichki va tashqi havoning hisobiy haroratlariga,",
+            ans: 1
+          },
+          {
+            question: "Mavsumiy yuklamaning grafigi qurish uchun absissa va ordinata o‘qlari bo’yicha qaysi ko’rsatkichlar qo’yib chiqiladi?",
+            option1: "absissada isitish mavsuminnig davomiyligi soatlarda va tashqi havoning harorati quyiladi, ordinata o‘qi bo’yicha esa, soatli sarfi",
+            option2: "absissada isitish mavsuminnig davomiyligi soatlarda quyiladi, ordinata o‘qi bo’yicha esa, soatli sarfi",
+            option3: "absissada tashqi havoning harorati quyiladi, ordinata o‘qi bo’yicha esa, soatli sarfi",
+            option4: "absissada isitish mavsuminnig davomiyligi soatlarda quyiladi, ordinata o‘qi bo’yicha esa, tashqi havoning harorati",
+            ans: 1
+          },
+          {
+            question: "Qaysi olim tomonidan issiqlik ta’minotining bir quvuri tizimi ishlab chiqildi va amalda qo‘llash uchun taklif qilindi?",
+            option1: "L. A. Mеlеntеv",
+            option2: "L.K. Ramzin",
+            option3: "L. Vukolovich",
+            option4: "E.E. Sokolov",
+            ans: 1
+          },
+          {
+            question: "Bir quvuri tizimni asosiy g‘oyasi nimada?",
+            option1: "isitish qurilmasidan kеyin issiq suv ta’minotiga bеrilgan tarmoq suvining hammasi unda foydalaniladi",
+            option2: "isitish qurilmasidan kеyin issiq suv ni stansiyaga qaytarish",
+            option3: "isitish qurilmasidan kеyin issiq suvni qaytadan isitish qurilmasida ishlatish",
+            option4: "issiq suv ta’minotiga bеrilgan tarmoq suvining hammasi unda foydalaniladi",
+            ans: 1
+          },
+          {
+            question: "Ochiq tizimlarning yopiq tizimlarga nisbatan afzaligi:",
+            option1: "elektr stansiyasida va sanoat korxonalarida ishlatilgan past haroratli suvni issiq suv ta’minoti uchun foydalanish imkoni mavjudligi",
+            option2: "stansiyada suvning tayyorlanishi murakkabligi va qimmatligi",
+            option3: "iste’molchilarga berilayotgan suvning sifati sanitariya tozalik va salomatlik talablariga javob bermasligi",
+            option4: "issiqlik ta’minoti tizimi ustidan o‘tkaziladigan sanitariya nazoratining murakkabligi",
+            ans: 1
+          },
+          {
+            question: "Gidravlik hisoblashning vazifasiga kirmayadigan vazifa:",
+            option1: "issiqlik qoplamani tanlash",
+            option2: "quvurning diamеtrini aniqlash",
+            option3: "bosim (siquv)ning kamayishini aniqlash",
+            option4: "tarmoqning turli nuqtalaridagi bosimlarni aniqlash",
+            ans: 1
+          },
+          {
+            question: "To’la naporni aniqlovchi ifodasiga nimalar kiradi?",
+            option1: "pеzomеtrik napor bilan quvur o‘qining hisoblar tеkisligiga nisbatan balandligining yig‘indisiga tеng",
+            option2: "pеzomеtrik napor bilan quvur o‘qining hisoblar tеkisligiga nisbatan balandligining farqiga tеng",
+            option3: "pеzomеtrik napor bilan quvur o‘qining hisoblar tеkisligiga nisbatan balandligining ko’paytmasiga tеng",
+            option4: "pеzomеtrik napor bilan quvur o‘qining hisoblar tеkisligiga nisbatan balandligining ayirmasiga tеng",
+            ans: 1
+          },
+          {
+            question: "Gidravlik hisobni bajarish uchun nimalar ma’lum bo’lishi kerak?",
+            option1: "issiqlik tarmog‘ining chizma tasviri, issiqlik tashuvchi moddaning sarfi va paramеtrlari, tarmoq qismlarining uzunligi",
+            option2: "issiqlik tarmog‘ining chizma tasviri, tarmoq qismlarining uzunligi",
+            option3: "issiqlik tarmog‘ining chizma tasviri, issiqlik tashuvchi moddaning sarfi va paramеtrlari",
+            option4: "issiqlik tarmog‘ining chizma tasviri, issiqlik tashuvchi moddaning sarfi, tarmoq qismlarining uzunligi",
+            ans: 1
+          },
+          {
+            question: "Qaysi olim tonidan elevator sxеmasi ishlab chiqilgan.",
+            option1: "V. M. Chaplin",
+            option2: "L. A. Mеlеntеv",
+            option3: "L.K. Ramzin",
+            option4: "L. Vukolovich",
+            ans: 1
+          },
+          [
+            {
+              question: "Yuqori haroratlarni o’lchaydigan asbob belgilansin…",
+              option1: "Pirometr",
+              option2: "Barometr",
+              option3: "Rotametr",
+              option4: "Manometr",
+              ans: 1
+            },
+            {
+              question: "Issiqlikning yillik sarfiga qaysi yuklamala kiradi?",
+              option1: "Isitish, ventilyatsiya, issiq suv, texnolgik extiyojlar yuklamalarning yig’indisi",
+              option2: "Isitish, ventilyatsiya, issiq suv yuklamalarning yig’indisi",
+              option3: "Isitish, issiq suv, texnolgik extiyojlar yuklamalarning yig’indisi",
+              option4: "ventilyatsiya, issiq suv, texnolgik extiyojlar yuklamalarning yig’indisi",
+              ans: 1
+            },
+            {
+              question: "Atmosfera bosimini o’lchaydigan asbob belgilansin…",
+              option1: "Barometr",
+              option2: "Pirometr",
+              option3: "Rotametr",
+              option4: "Manometr",
+              ans: 1
+            },
+            {
+              question: "Laminar oqimini belgilovchi kattalik…",
+              option1: "Reynolds soni 2300 dan kichik",
+              option2: "Prandtl soni 2300 dan kichik",
+              option3: "Nusselt soni 2300 dan kichik",
+              option4: "Reynolds soni 2300 dan katta",
+              ans: 1
+            },
+            {
+              question: "Tashqi havo haroratiga bog’liq bo’lgan issiqlik yuklamalar…",
+              option1: "Isitish, ventilyatsiyalash, havo maromlash",
+              option2: "Isitish, ventilyatsiyalash",
+              option3: "Isitish, havo maromlash",
+              option4: "Issiq suv ta’minoti, texnologik extiyojlar",
+              ans: 1
+            },
+            {
+              question: "IEMlarda qanday turdagi energiyalar ishlab chikariladi?",
+              option1: "issiklik va elektr energiyasi;",
+              option2: "elektr energiyasi;",
+              option3: "issiklik, elektr va mexanik energiya;",
+              option4: "mexanik energiya",
+              ans: 1
+            },
+            {
+              question: "1 kVt*soat elektr energiya qancha issiklikka teng buladi (kJ)?",
+              option1: "3600 kJ;",
+              option2: "3200 kJ;",
+              option3: "2800 kJ;",
+              option4: "4,19 kJ",
+              ans: 1
+            },
+            {
+              question: "Zamonaviy KESlarda foydali ish koeffitsienti nechaga teng?",
+              option1: "35-40 %;",
+              option2: "40-45 %;",
+              option3: "45-50 %;",
+              option4: "30-35 %",
+              ans: 1
+            },
+            {
+              question: "Zamonaviy IEMlarda foydali ish koeffitsienti nechaga teng?",
+              option1: "75-80 %;",
+              option2: "50-90 %;",
+              option3: "45-50 %;",
+              option4: "30-35 %",
+              ans: 1
+            },
+            {
+              question: "Tuman kozonxonanig foydali ish koeffitsienti nechaga teng?",
+              option1: "50 - 90 %;",
+              option2: "40-45 %;",
+              option3: "45-50 %;",
+              option4: "30-35 %",
+              ans: 1
+            },
+            {
+              question: "Mavsumiy yuklamaga qaysi yuklamalar kiradi?",
+              option1: "isitish, ventilyatsiya va havoni maromlash;",
+              option2: "isitish, ventilyatsiya va havoni maromlash, issiq suv;",
+              option3: "isitish, ventilyatsiya va havoni maromlash, elektr energiyasi;",
+              option4: "isitish, ventilyatsiya va havoni maromlash, texnologik",
+              ans: 1
+            },
+            {
+              question: "Issiqlik tashuvchi turlari…",
+              option1: "Issiq havo, issiq suv, buq’, elektr energiya;",
+              option2: "Gaz, issiq havo, issiq suv, buq’, elektr energiya;",
+              option3: "Yoqilg’i, issiq suv, buq’, elektr energiya;",
+              option4: "Issiq havo, issiq suv, buq’",
+              ans: 1
+            },
+            {
+              question: "Issiqlik energiya iste‘mollanish turlari:",
+              option1: "isitish, ventilyasiyalash, issiq suv ta‘minoti, havo maromlash tizimlarida va texnologik jarayonlarida;",
+              option2: "isitish, ventilyasiyalash, issiq suv ta‘minoti va texnologik jarayonlarida;",
+              option3: "isitish, issiq suv ta‘minoti, havo maromlash tizimlarida va texnologik jarayonlarida;",
+              option4: "isitish, ventilyasiyalash, issiq suv ta‘minoti;",
+              ans: 1
+            },
+            {
+              question: "Markazlashtirilgan issiqlik ta’minotining xususiyati -…",
+              option1: "Bir issiqlik manbadan bir va bir nechta ist’emolchilarni issiqlik energiya bilan ta’minlash;",
+              option2: "Bir issiqlik manbadan bir nechta xonalarni issiqlik energiya bilan ta’minlash;",
+              option3: "Bir issiqlik manbadan bir nechta xonalarni issiqlik energiya bilan ta’minlash;",
+              option4: "Bir nechta issiqlik manbadan bir va bir nechta ist’emolchilarni issiqlik energiya bilan ta’minlash;",
+              ans: 1
+            },
+            {
+              question: "Markazlashtirilgan issiqlik ta‘minoti tizimlarida issiqlik manba vazifasini bajaruvchi…",
+              option1: "IEM (issiqlik elektr markazlari), tuman qozonxonalari",
+              option2: "IEM (issiqlik elektr markazlari)",
+              option3: "tuman qozonxonalari",
+              option4: "IEM (issiqlik elektr markazlari), tuman va avtonom qozonxonalari",
+              ans: 1
+            },
+            {
+              question: "Faqat issiqlik energiyani ishlab chiqaradigan issiqlik qurilmalar.",
+              option1: "Qozonxonalar;",
+              option2: "Issiqlik elektr markazlar;",
+              option3: "Kondensatsion elektr stansiyalar;",
+              option4: "Issiqlik elektr stansiyalar;",
+              ans: 1
+            },
+            {
+              question: "Faqat elektr energiyani ishlab chiqaradigan issiqlik qurilmalar",
+              option1: "Kondensatsion elektr stansiyalar;",
+              option2: "Qozonxonalar;",
+              option3: "Issiqlik elektr markazlar;",
+              option4: "Issiqlik elektr stansiyalar;",
+              ans: 1
+            },
+            {
+              question: "Issiqlik va elektr energiyani ishlab chiqaradigan issiqlik qurilmalar",
+              option1: "Issiqlik elektr markazlar",
+              option2: "Qozonxonalar;",
+              option3: "Kondensatsion elektr stansiyalar;",
+              option4: "Issiqlik elektr stansiyalar;",
+              ans: 1
+            },
+            {
+              question: "Tarmoqdagi sarf o’lchaydigan asbob belgilansin…",
+              option1: "Rotametr",
+              option2: "Pirometr",
+              option3: "Barometr",
+              option4: "Manometr",
+              ans: 1
+            },
+            {
+              question: "Mavsumiy yuklamaga qaysi yuklamalar kiradi?",
+              option1: "isitish, ventilyatsiya va havoni maromlash;",
+              option2: "isitish, ventilyatsiya va havoni maromlash, issiq suv;",
+              option3: "isitish, ventilyatsiya va havoni maromlash, elektr energiyasi;",
+              option4: "isitish, ventilyatsiya va havoni maromlash, texnologik;",
+              ans: 1
+            },
+            {
+              question: "Tashqi havo haroratiga bog’liq bo’lgan issiqlik yuklamalar…",
+              option1: "Isitish, ventilyatsiyalash, havo maromlash;",
+              option2: "Isitish, ventilyatsiyalash;",
+              option3: "Isitish, havo maromlash;",
+              option4: "Issiq suv ta’minoti, texnologik extiyojlar;",
+              ans: 1
+            },
+            {
+              question: "Eng universal issiqlik tashuvchi…",
+              option1: "Issiq suv;",
+              option2: "Issiq havo;",
+              option3: "Bug’;",
+              option4: "Tutun gazlar;",
+              ans: 1
+            },
+            {
+              question: "Noan’aviy isitish manbalar…",
+              option1: "Quyosh, geothermal suvlar",
+              option2: "Quyosh, suyuq yoqig’i, suvlari",
+              option3: "Quyosh, mazut",
+              option4: "Quyosh, shamol",
+              ans: 1
+            },
+            {
+              question: "Tarmoqdagi bosim o’lchaydigan asbob belgilansin…",
+              option1: "Manometer",
+              option2: "Pirometr",
+              option3: "Barometr",
+              option4: "Rotametr",
+              ans: 1
+            },
+            {
+              question: "Oqim turini (laminar yoki turbulent) aniqlash uchun qaysi kreteriydan foydalaniladi…",
+              option1: "Reynolds",
+              option2: "Prandtl",
+              option3: "Nusselt",
+              option4: "Fure",
+              ans: 1
+            },
+            {
+              question: "Davomiyik vaqtiga ko’ra issiqlik yuklamalari qanday turlarga bo’linadi?",
+              option1: "Mavsumiy va yillik",
+              option2: "Qishgii, yozgi, kuzgi",
+              option3: "Kuzgi va bahorgi",
+              option4: "Bahorgi",
+              ans: 1
+            },
+            {
+              question: "Shahar issiqlik ta‘minotida qo’llaniladigan tizimlar…",
+              option1: "ikki quvurli suvli tizimlar;",
+              option2: "bir quvurli suvli tizimlar;",
+              option3: "ikki quvurli bug’li tizimlar;",
+              option4: "uch quvurli suvli tizimlar;",
+              ans: 1
+            },
+            {
+              question: "Issiqlik tarmoqqa ulanishi bo’yicha isitish tizimlarning bo’linishi…",
+              option1: "Mustaqil bo’lgan va mustaqil bo’lmagan;",
+              option2: "Ochiq va yopiq;",
+              option3: "Suvli va bug’li;",
+              option4: "Ulangan va ulanmagan.",
+              ans: 1
+            },
+            {
+              question: "Issiqlik energiya iste‘mollanish turlari",
+              option1: "isitish, ventilyasiyalash, issiq suv ta‘minoti, havo maromlash tizimlarida va texnologik jarayonlarida",
+              option2: "isitish, ventilyasiyalash, issiq suv ta‘minoti va texnologik jarayonlarida",
+              option3: "isitish, issiq suv ta‘minoti, havo maromlash tizimlarida va texnologik jarayonlarida",
+              option4: "isitish, ventilyasiyalash, issiq suv ta‘minoti",
+              ans: 1
+            },
+            {
+              question: "Markazlashtirilmagan issiqlik ta‘minoti tizimlari qanday turlarga bo’linadi?",
+              option1: "Shaxsiy va maxalliy;",
+              option2: "Guruxli va maxalliy;",
+              option3: "Shaxsiy va guruxli;",
+              option4: "Shaxsiy va guruxli;",
+              ans: 1
+            },
+            {
+              question: "Issiqlikni uzoq masofalarga uzatish uchun qaysi issiqlik tashuvchilardan foydalaniladi?",
+              option1: "Suv va suv bug’i;",
+              option2: "Suv, suv bug’i va havo;",
+              option3: "Suv va havo;",
+              option4: "suv bug’i va havo",
+              ans: 1
+            },
+            {
+              question: "Quvur ichidagi oqim harakati qaysi qonunga asoslandi…",
+              option1: "Bernulli qonuniga",
+              option2: "Fure qonuniga",
+              option3: "Reynolds qonuniga",
+              option4: "Prandtl qonuniga",
+              ans: 1
+            },
+            {
+              question: "Bug’ bilan isitish tizimlarida bug’ning harorati … oshmasligi kerak",
+              option1: "130 C",
+              option2: "155 C",
+              option3: "180 C",
+              option4: "190 C",
+              ans: 1
+            },
+            {
+              question: "Bino ichidagi havo harorati quyidagiga bog’liq bo’ladi",
+              option1: "isitiladigan binoning vazifasiga;",
+              option2: "tashqi havo haroratiga;",
+              option3: "issiqlik tashuvchi turiga;",
+              option4: "isitish tizimining ulanishiga;",
+              ans: 1
+            },
+            {
+              question: "Issiq suv ta‘minoti tizimlarning qanday turlari qo’llaniladi?",
+              option1: "Ochiq va yopik;",
+              option2: "Bir, ikki, uch va ko’p quvurli;",
+              option3: "Mustaqil va mustaqil bulmagan;",
+              option4: "Ko’p quvurli;",
+              ans: 1
+            },
+            {
+              question: "Past bosimli bug’ning bosimi nechaga teng?",
+              option1: "30,05-0,25 MPa;",
+              option2: "0,8-1,6 MPa;",
+              option3: "0,5-1,0 MPa;",
+              option4: "0,09-1,6 MPa;",
+              ans: 1
+            },
+            {
+              question: "Sifatli rostlashda qaysi parametr o’zgaradi?",
+              option1: "harorat;",
+              option2: "Sarf;",
+              option3: "sarf va harorat",
+              option4: "miqdor.",
+              ans: 1
+            },
+            {
+              question: "Miqdoriy rostlashda qaysi parametr o’zgaradi?",
+              option1: "sarf;",
+              option2: "sarf va harorat",
+              option3: "miqdor.",
+              option4: "harorat",
+              ans: 1
+            },
+            {
+              question: "Issiqlik yuklama turlari belgilansin:",
+              option1: "mavsumiy, yillik yuklamalar;",
+              option2: "uzgaruvchan yuklamalar.",
+              option3: "mavsumiy yuklama;",
+              option4: "yillik yuklamalar",
+              ans: 1
+            },
+            {
+              question: "Gidravlik hisob vazifasiga nimalar kirmaydi?",
+              option1: "tarmoqdagi issiqlik yo’qotilishlarini aniqlash",
+              option2: "quvurning diametrini aniqlash;",
+              option3: "bosimning kamayishini aniqlash;",
+              option4: "tarmoqning turli nuqtalaridagi bosimlarni aniqlash;",
+              ans: 1
+            },
+            {
+              question: "Bosimning chiziqli kamayishi tushunchasini qanday izoxlaysiz?",
+              option1: "Quvurning to’g’ri chiziqli qismida bosimning kamayishi;",
+              option2: "Quvurning butun uzunligi bo’yicha bosimning kamayishi;",
+              option3: "Quvurning maxalliy karshiliklarida bosimning kamayishi;",
+              option4: "Qarshiliklar yigindisiga.",
+              ans: 1
+            },
+            {
+              question: "Bosimning maxalliy kamayishini qanday tushuntirasiz?",
+              option1: "Bosimning turli tirsaklarda kamayishi;",
+              option2: "Quvurning diametri uzgargan joyida bosimning kamayishi;",
+              option3: "Quvurning barcha maxalliy qarshiliklarida bosimning kamayishi;",
+              option4: "Qarshiliklar yigindisiga",
+              ans: 1
+            },
+            {
+              question: "Issiqlik tarmog’ini gidravlik hisobining maqsadi nimada?",
+              option1: "Tarmoq quvurining diametrini va undagi muxit sarfini aniqlash;",
+              option2: "Tarmoq quvurining diametrini aniqlash;",
+              option3: "Tarmoq quvurining qarshiligini aniqlash;",
+              option4: "Tarmoqdagi bosim kamayishini aniqlash",
+              ans: 1
+            },
+            {
+              question: "Pezometrik grafikning vazifasi?",
+              option1: "Taromkning normal ishlashini ta‘minlovchi nasosni va yordamchi jixozlarini to’g’ri tanlash uchun tarmoqda bosimning umumiy kamayishi va tarmoqning har bir nuqtasidagi bosim qiymatlarini bilish.",
+              option2: "Tarmoqdagi bosim kamayishini bilish.",
+              option3: "Taromkning butun uzunligi bo’yicha bosim qiymatlarini bilish;",
+              option4: "Quvur diametrini tanlash.",
+              ans: 1
+            },
+            {
+              question: "Bosimni chiziqli kamayishi tushunchasini qanday izoxlaysiz?",
+              option1: "Quvurning to’g’ri chiziqli qismida bosimning kamayishi;",
+              option2: "Quvurning butun uzunligi bo’yicha bosimning kamayishi;",
+              option3: "Quvurning maxalliy karshiliklarida bosimning kamayishi;",
+              option4: "Qarshiliklar yigindisiga.",
+              ans: 1
+            },
+            {
+              question: "Bosimni maxalliy kamayishini qanday tushuntirasiz?",
+              option1: "Bosimning turli to’siqlarda kamayishi;",
+              option2: "Quvurning diametri o’zgargan joyida bosimning kamayishi;",
+              option3: "Quvurning barcha mahalliy qarshiliklarida bosimning kamayishi;",
+              option4: "Qarshiliklar yig’indisiga",
+              ans: 1
+            },
+            {
+              question: "Elevatorning vazifasi –",
+              option1: "Qaytish quvuridagi sovuq suvni ejektsiyalab (so’rib) uzatish quvuridagi suv haroratini talab qilingan darajagacha tushirish.",
+              option2: "Iste‘molchiga beriladigan suvning haroratini maromlab berish;",
+              option3: "Issiqlik suv ta‘minoti tizimidagi suvning haroratini o’zgartirish;",
+              option4: "Suv qizdirgich vazifasini bajarish.",
+              ans: 1
+            },
+            {
+              question: "Gidravlik rejim deb nimaga aytiladi?",
+              option1: "Tizimni turli nuqtalarida bosim va sarf orasidagi bog’lanishini belgilovchi rejim;",
+              option2: "Ma‘lum bo’lgan issiqlik tashuvchining sarfi va tarmoqdagi bosim yo’qotilishlari bo’yicha quvur diametrlarini aniqlovchi rejim;",
+              option3: "Tarmoqdagi issiqlik yo’qotilishlarini aniqlab issiqlik izolyatsiyasini tanlovchi rejim;",
+              option4: "Issiqlik izolyatsiyasiga uzatilgan issiqlik o’zgarmas miqdorda atrof muxitga uzatuvchi rejim;",
+              ans: 1
+            },
+            {
+              question: "Quvur ichida bosimning kamayishi quyidagiga teng:",
+              option1: "chiziqli va maxaliy bosim kamayishlar yigindisiga;",
+              option2: "chiziqli va maxaliy bosim kamayishlar farqiga;",
+              option3: "chiziqli bosim kamayishiga;",
+              option4: "maxaliy bosim kamayishiga.",
+              ans: 1
+            },
+            {
+              question: "Gidravlik zarba tarqalanishining xususiyati:",
+              option1: "To’lqunli jarayon;",
+              option2: "To’g’ri chiziqli jarayon;",
+              option3: "O’zgarmas tezlikli jarayon;",
+              option4: "Suvning zichligiga bog’liq jarayon",
+              ans: 1
+            },
+            {
+              question: "Issiqlik tarmoqlarida qo‘llaniladigan armaturani vazifasi nimada?",
+              option1: "berkitish, rostlash, saqlash, bosimni kamaytirish;",
+              option2: "kondensatni ajratish, nazorat o‘lchash, oqimni burash;",
+              option3: "berkitish, rostlash, saqlash, bosimni jshirish;",
+              option4: "kondensatni to’plash, nazorat o‘lchash, oqimni burash;",
+              ans: 1
+            },
+            {
+              question: "Elektr payvandli chokli quvurlarning shartli diametri... chiqariladi.",
+              option1: "1400 mm gacha;",
+              option2: "2400 mm gacha;",
+              option3: "400mm gacha;",
+              option4: "1000mm gacha;",
+              ans: 1
+            },
+            {
+              question: "Elektr payvandli choksiz quvurlarning shartli diametri... chiqariladi.",
+              option1: "3400 mm gacha; choksizligi",
+              option2: "2400 mm gacha;",
+              option3: "1400 mm gacha;",
+              option4: "1000mm gacha;",
+              ans: 1
+            },
+            {
+              question: "Shartli diametr Dsh quvurning ... bildiradi.",
+              option1: "nominal ichki diametrini;",
+              option2: "nominal tashqi diametrini;",
+              option3: "umumiy diametrini;",
+              option4: "zavoddan chiquvchi quvurning diametrini.",
+              ans: 1
+            },
+            {
+              question: "Suvning deaeratsiyalashning vazifasi…",
+              option1: "suv tarkibida mavjud bo’lgan agresiv gazlani chiqarish",
+              option2: "suv tarkibida mavjud bo’lgan eritilgan gazlar: kislorod",
+              option3: "suv tarkibida mavjud bo’lgan eritilgan gazlar: uglerod dioksidi chiqarish;",
+              option4: "suv tarkibida mavjud bo’lgan eritilgan gazlar xloridlar va sulfatlarini chiqarish.",
+              ans: 1
+            },
+            {
+              question: "IES, Tqlar qanday yoqilg’ida ishlaydi",
+              option1: "Organiq yoqilg’ida ishlaydigan",
+              option2: "Qattiq yoqilg’ida ishlaydi",
+              option3: "Suyuq yoqilg’ida ishlaydi",
+              option4: "Barcha javob to’g’ri",
+              ans: 1
+            },
+            {
+              question: "Zulfin birktirish armaturasi qayerda qo’llaniladi",
+              option1: "suvli tarmoqlarda",
+              option2: "berkitish",
+              option3: "tayanch uchun",
+              option4: "bug’li tarmoqlarda",
+              ans: 1
+            },
+            {
+              question: "Ventil birktirish armaturasi qayerda qo’llaniladi",
+              option1: "bug’li tarmoqlarda",
+              option2: "berkitish",
+              option3: "tayanch uchun",
+              option4: "suvli tarmoqlarda",
+              ans: 1
+            },
+            {
+              question: "Ta‘minot nasosining vazifasi.",
+              option1: "Bug’ qozonini ta‘minot suvi bilan ta‘minlab turish uchun;",
+              option2: "Yuqori bosimli qizdirgichlarni suv bilan to’ldirib turish;",
+              option3: "Deaeratordan suvni kondensatorga xaydab berish uchun",
+              option4: "Past bosimli qizdirgichlarni ta‘minot suvi bilan ta‘minlash",
+              ans: 1
+            },
+            {
+              question: "Ta‘minot nasosida ta‘minot suvining xarorati.",
+              option1: "3(S dan 7(S gacha oshiradi;",
+              option2: "10(S dan 30(S gacha oshiradi;",
+              option3: "30(S dan 70(S gacha oshiradi;",
+              option4: "100(S atrofida oshiradi.",
+              ans: 1
+            },
+            {
+              question: "Zamonaviy korxona energiya xujaligining printsipial sxemasidagi tejamkorlikni ta‘minlovchi jixozlar:",
+              option1: "Yoqilg’i va issiqlik qayta foydalanish qurilmalari;",
+              option2: "Issiqlik almashtirgich",
+              option3: "Yuqori samarali pechlar, bug’ qozonlari, issiqlik almashtirgichlari va xokazo;",
+              option4: "Issiqlikdan qayta foydalanish qurilmalari;",
+              ans: 1
+            },
+            {
+              question: "Nima uchun xul material, uning quruq xolatidagiga nisbatan issiqlikni yaxshi o‘tkazadi?",
+              option1: "Xo‘l material tarkibidagi suvning issiqlik o‘tkazuvchanlik koeffisienti katta bo‘lgani uchun",
+              option2: "Xo‘l materialning termik qarshiligi yuqori",
+              option3: "Xo‘l materialning issiqlik almashinish koeffisienti yuqori",
+              option4: "Xo‘l materialning issiqlik berish koeffisienti yuqori bo‘lgani uchun",
+              ans: 1
+            },
+            {
+              question: "Yoqilg’i chiqindining turlari:",
+              option1: "Texnologik jarayonlarda xosil bo’lgan yonuvchan modda(gaz)lar, kimyoviy va mexanik chala yongan yoqilg’i;",
+              option2: "Kimyoviy va mexanik chala yongan yoqilg’i;",
+              option3: "Ishlatilgan issiq suv va qizdirilgan xavo;",
+              option4: "Sun‘iy yoqilg’ilar – koks gazi, domna gazi",
+              ans: 1
+            },
+            {
+              question: "Havo isitgichi nima?",
+              option1: "o'zidan o'tayotgan havoni qizdiradigan almashinuv apparati. Havo isitgichdan chiqqan issiq havo o'txonaga yuboriladi.",
+              option2: "ta'minot suvini yonish mahsulotlari orqali qaynash holatiga keltiruvchi maxsus issiqlik almashgich yuzadir.",
+              option3: "bug'ni o'ta qizigan holatga etkazib beradigan maxsus yuzadir.",
+              option4: "qozonning issiqlik qabul qiluvchi yuzasidir.",
+              ans: 1
+            },
+            {
+              question: "Bir yilda necha kun, soat, minutdan iborat?",
+              option1: "365 kun, 8760 soat, 525600 minut.",
+              option2: "365 kun, 8750 soat, 525600 minut",
+              option3: "365 kun, 8760 soat, 524600 minut.",
+              option4: "365 kun, 8750 soat, 524600 minut",
+              ans: 1
+            },
+            {
+              question: "Issiqlik va massa almashinuv qurilmalarining turlarini ko’rsating?",
+              option1: "rekuperativ, regenerativ, aralashtiruvchi",
+              option2: "rekuperativ, regenerativ",
+              option3: "rekuperativ, aralashtiruvchi",
+              option4: "regenerativ, aralashtiruvchi",
+              ans: 1
+            },
+            {
+              question: "Issiqlik almashinuv qurilmalarida asosiy jarayon qaysi?",
+              option1: "issiqlik almashinish",
+              option2: "massa almashinish",
+              option3: "issiqlik va massa almashinish",
+              option4: "harorat almashinishi",
+              ans: 1
+            },
+            {
+              question: "Reaktorlarda asosiy jarayon qaysi?",
+              option1: "fizik-kimyoviy",
+              option2: "issiqlik almashinish",
+              option3: "issiqlik va massa almashinish",
+              option4: "massa almashinish",
+              ans: 1
+            },
+            {
+              question: "Reaktorlarda yordamchi jarayon qaysi?",
+              option1: "issiqlik almashinish",
+              option2: "fizik-kimyoviy",
+              option3: "issiqlik va massa almashinish",
+              option4: "massa almashinish",
+              ans: 1
+            },
+            {
+              question: "Kimyo sanoatida issiqlik almashinuv qurilmalari umumiy qurilmalarining necha foizini tashkil etadi?",
+              option1: "15-18%",
+              option2: "20-25%",
+              option3: "30-32%",
+              option4: "10-15%",
+              ans: 1
+            },
+            {
+              question: "Ishlash prinsipiga ko’ra issiqlik almashinuv qurilmalari necha turga bo’linadi?",
+              option1: "2 ga",
+              option2: "3 ga",
+              option3: "4 ga",
+              option4: "5 ga",
+              ans: 1
+            },
+            {
+              question: "Konstruktiv tuzilishi bo’yicha issiqlik almashinuv qurilmalari necha turga bo’linadi?",
+              option1: "quvurdan, listdan va nometalli",
+              option2: "quvurdan, listdan qilingan materialli",
+              option3: "quvurli, nometalli",
+              option4: "materialla va quvurdan",
+              ans: 1
+            },
+            {
+              question: "Quvurdan yasalgan issiqlik almashinuv qurilmalariga qaysi qurilmalar kiradi?",
+              option1: "quvur ichida quvur, o’ramli",
+              option2: "spiralsimon va o’ramli",
+              option3: "grafitli va plastinali",
+              option4: "spiral, plastinali",
+              ans: 1
+            },
+            {
+              question: "Listdan yasalgan issiqlik almashinuv qurilmalariga qaysi qurilmalar kiradi?",
+              option1: "spiralsimon va o’ramli",
+              option2: "grafitli va plastinali",
+              option3: "quvur ichida quvur, o’ramli",
+              option4: "o’ramli, grafitli",
+              ans: 1
+            },
+            {
+              question: "Ishlatilish maqsadiga ko’ra issiqlik almashinish qurilmalari necha turga bo’linadi?",
+              option1: "sovutgichlar, isitgichlar, bug’latgich",
+              option2: "gradirniya, kondensator, bug’latgich",
+              option3: "sovutgich, kondensator",
+              option4: "isitgichlar, bug’latgich",
+              ans: 1
+            },
+            {
+              question: "Issiqlik berish usuliga ko’ra issiqlik almashinuv qurilmalari necha turga bo’linadi?",
+              option1: "2 ga",
+              option2: "3 ga",
+              option3: "4 ga",
+              option4: "5 ga",
+              ans: 1
+            },
+            {
+              question: " koeffisient bu - ...",
+              option1: "issiqlik berish koeffisienti",
+              option2: "issiqlik uzatish koeffisienti",
+              option3: "issiqlik o’tkazuvchanlik koeffisienti",
+              option4: "harorat o’tkazish koeffisienti",
+              ans: 1
+            },
+            {
+              question: "k koeffisient bu - ...",
+              option1: "issiqlik uzatish koeffisienti",
+              option2: "issiqlik berish koeffisienti",
+              option3: "issiqlik o’tkazuvchanlik koeffisienti",
+              option4: "harorat o’tkazish koeffisienti",
+              ans: 1
+            },
+            {
+              question: " koeffisient bu - ...",
+              option1: "issiqlik o’tkazuvchanlik koeffisienti",
+              option2: "issiqlik uzatish koeffisienti",
+              option3: "issiqlik berish koeffisienti",
+              option4: "harorat o’tkazish koeffisienti",
+              ans: 1
+            },
+            {
+              question: "Issiq muhitdan sovuq muhitga issiqlikni uzatish uchun qo’llaniladigan harakatlanuvchi muhitlar qanday nomlanadi?",
+              option1: "issiqlik tashuvchi",
+              option2: "qo’zg’aluvchi devor",
+              option3: "qo’zg’almas devor",
+              option4: "issiqlik almashgich",
+              ans: 1
+            },
+            {
+              question: "Issiqlik almashinuv yuzasi deb nimaga aytiladi?",
+              option1: "issiqlik almashinuv amalga oshadigan yuza",
+              option2: "massa almashinuv yuzasi",
+              option3: "issiqlik va massa almashinuv yuzasi",
+              option4: "harorat almashinuv yuzasi",
+              ans: 1
+            },
+            {
+              question: "Yuzaviy issiqlik almashinuv qurilmalari qanday turga bo’lanadi?",
+              option1: "rekuperativ, regenerativ",
+              option2: "Rekuperativ",
+              option3: "Regenerativ",
+              option4: "Aralashtiruvchi",
+              ans: 1
+            },
+            {
+              question: "Issiqlik tashuvchi muhitlar qanday yo’nalishlarda harakat qiladi?",
+              option1: "to’g’ri, kesishgan, qarama-qarshi",
+              option2: "to’g’ri, kesishgan",
+              option3: "to’g’ri, qarama-qarshi",
+              option4: "kesishgan, qarama-qarshi",
+              ans: 1
+            },
+            {
+              question: "Issiqlik tashuvchilar maqsadiga ko’ra qanday turlarga bo’linadi?",
+              option1: "issiqlik va sovuqlik tashuvchilar",
+              option2: "qizdiruvchi va sovituvchi issiqlik tashuvchilar",
+              option3: "oraliq issiqlik va sovuqlik tashuvchilar",
+              option4: "sovuqlik tashuvchilar va quritish agenti",
+              ans: 1
+            },
+            {
+              question: "Agregat holatiga ko’ra issiqlik tashuvchilar qanday turlarga bo’linadi?",
+              option1: "bir, ikki va ko’p fazali",
+              option2: "bir fazali",
+              option3: "ikki fazali",
+              option4: "ko’p fazali",
+              ans: 1
+            },
+            {
+              question: "Quyidagi moddalardan qaysilari bir fazali issiqlik tashuvchilarga kiradi?",
+              option1: "past haroratli plazmalar va qattiq moddalar",
+              option2: "qaynovchi va bug’lanuvchi moddalar",
+              option3: "suv va suv bug’i",
+              option4: "qaynovchi va suv",
+              ans: 1
+            },
+            {
+              question: "Quyidagi moddalardan qaysilari ko’p fazali issiqlik tashuvchilarga kiradi?",
+              option1: "suv va suv bug’i",
+              option2: "qattiq moddalar",
+              option3: "kondensatsiyalanmaydigan moddalar",
+              option4: "bug’lanmaydigan moddalar",
+              ans: 1
+            },
+            {
+              question: "Ishchi harorati bo’yicha issiqlik tashuvchilar qanday turlarga bo’linadi?",
+              option1: "yuqori, o’rta, past va kriogen haroratli",
+              option2: "yuqori va o’rta haroratli",
+              option3: "yuqori va past haroratli",
+              option4: "o’rta va past haroratli",
+              ans: 1
+            },
+            {
+              question: "Qurilmaning issiqlik hisobidan maqsad nima?",
+              option1: "issiqlik almashinuv yuzasi F ni topish",
+              option2: "Qurilmaning asosiy o’lchamlarini topish",
+              option3: "qurimaning qarshiliklarini topish",
+              option4: "issiqlik tashuvchilarning haroratlarini aniqlash",
+              ans: 1
+            },
+            {
+              question: "Qurilmaning konstruktiv hisobidan maqsad nima?",
+              option1: "qurilmaning asosiy o’lchamlarini topish",
+              option2: "issiqlik almashinuv yuzasi F ni topish",
+              option3: "qurimaning qarshiliklarini topish",
+              option4: "issiqlik tashuvchilarning bosimini aniqlash",
+              ans: 1
+            },
+            {
+              question: "Qurilmaning gidravlik hisobidan maqsad nima?",
+              option1: "qurilmaning qarshiliklarini topish",
+              option2: "issiqlik almashinuv yuzasi F ni topish",
+              option3: "qurilmaning asosiy o’lchamlarini topish",
+              option4: "issiqlik tashuvchilarni haroratlarini aniqlash",
+              ans: 1
+            },
+            {
+              question: "Qurilmaning mexanik hisobidan maqsad nima?",
+              option1: "qurilma mustahkamligini aniqlash",
+              option2: "qurilmaning asosiy o’lchamlarini topish",
+              option3: "qurilmaning qarshiliklarini topish",
+              option4: "kuchlanishlarni hisoblash",
+              ans: 1
+            },
+            {
+              question: "Issiqlik uzatilishi necha usulda amalga oshadi?",
+              option1: "3",
+              option2: "2",
+              option3: "4",
+              option4: "5",
+              ans: 1
+            },
+            {
+              question: "Konveksiya hodisasi bu - ...",
+              option1: "issiq va sovuq havo moddalarni o’rin almashishi",
+              option2: "devorning issiqlik o’tkazuvchanligi",
+              option3: "issiqlik almashinuv hodisasi",
+              option4: "massa almashinuv hodisasi",
+              ans: 1
+            },
+            {
+              question: "Konveksiya necha xil bo’ladi?",
+              option1: "2",
+              option2: "5",
+              option3: "3",
+              option4: "4",
+              ans: 1
+            },
+            {
+              question: "Harakat yo’nalishi to’g’ri oqimli bo’lganda issiqlik tashuvchilar qanday harakatlanadi?",
+              option1: "bir tomonga",
+              option2: "qarama-qarshi tomonga",
+              option3: "bir-biriga to’g’ri burchak ostida",
+              option4: "bir-biriga egri burchak ostida",
+              ans: 1
+            },
+            {
+              question: "Harakat yo’nalishi teskari oqimli bo’lganda issiqlik tashuvchilar qanday harakatlanadi?",
+              option1: "qarama-qarshi tomonga",
+              option2: "bir tomonga",
+              option3: "bir-biriga to’g’ri burchak ostida",
+              option4: "bir-biriga egri burchak ostida",
+              ans: 1
+            },
+            {
+              question: "Harakat yo’nalishi kesishgan oqimli bo’lganda issiqlik tashuvchilar qanday harakatlanadi?",
+              option1: "bir-biriga to’g’ri burchak ostida",
+              option2: "bir tomonga",
+              option3: "qarama-qarshi tomonga",
+              option4: "bir-biriga egri burchak ostida",
+              ans: 1
+            },
+            {
+              question: "Yuqori haroratda ishlovchi olovli texnikada qanday issiqlik almashinuv qurilmalari qo’llaniladi?",
+              option1: "regenerativ",
+              option2: "Rekuperativ",
+              option3: "Aralashtiruvchi",
+              option4: "Reaktorlar",
+              ans: 1
+            },
+            {
+              question: "Bug’latish qurilmalarida asosan qanday issiqlik almashinuv qurilmalari qo’llaniladi?",
+              option1: "rekuperativ, aralashtiruvchi",
+              option2: "regenerativ, rekuperativ",
+              option3: "aralashtiruvchi, regenerativ",
+              option4: "rekuperativ, aralashtiruvchi",
+              ans: 1
+            },
+            {
+              question: "Energetik yoqilg'i deb nimaga aytiladi",
+              option1: "sanoat miqyosida elektr energiyasi va issiqlik ishlab chiqarishda foydalaniladigan yoqilg'ilar energetik deb nomlanadi;",
+              option2: "kechadigan fizik-kimyoviy jarayonlar natijasida o'zidan issiqlik energiyasi ajratadigan va mukammal texnika yordamida bu issiqlikdan energiya ishlab chiqarishda foydalanish mumkin bo'lgan yoqilg'ilar energetik deb ataladi",
+              option3: "mukammal texnika yordamida issiqlikdan energiya ishlab chiqarishda foydalanish mumkin bo'lgan yoqilg'ilar energetik deb ataladi;",
+              option4: "kechadigan fizik-kimyoviy jarayonlar natijasida o'zidan issiqlik energiyasi ajratadigan yoqilg'ilar energetik deb ataladi;",
+              ans: 1
+            },
+            {
+              question: "Yer osti suvlari tarkibiga qanday kationlar bo’ladi",
+              option1: "Mg, Ca, Na, K, Fe",
+              option2: "K, Al, Ti, S",
+              option3: "Cl, N, Si",
+              option4: "SO4, NO3, HCO3",
+              ans: 1
+            },
+            {
+              question: "Yer osti suvlari tarkibiga qanday anionlar bo’ladi",
+              option1: "Si, SO4, NO3, HCO3",
+              option2: "Mg, Ca, Na, K, Fe",
+              option3: "K, Al, Ti, S",
+              option4: "Cl, N, Si",
+              ans: 1
+            },
+            {
+              question: "Yer osti suvlari tarkibiga qanday gazlar uchraydi",
+              option1: "O2 va CO2",
+              option2: "Mg, Ca, Na, K, Fe",
+              option3: "K, Al, Ti, S",
+              option4: "Ce, SO4, NO3, HCO3",
+              ans: 1
+            },
+            {
+              question: "Issiqlik tashuvchi turlari…",
+              option1: "Issiq havo, issiq suv, buq’, elektr energiya;",
+              option2: "Gaz, issiq havo, issiq suv, buq’, elektr energiya;",
+              option3: "Yoqilg’i, issiq suv, buq’, elektr energiya;",
+              option4: "Issiq havo, issiq suv, buq’;",
+              ans: 1
+            },
+            {
+              question: "Markazlashtirilgan issiqlik ta’minoti…",
+              option1: "Bir issiqlik manbadan bir va bir nechta ist’emolchilarni issiqlik energiya bilan ta’minlash;",
+              option2: "Bir issiqlik manbadan bir nechta xonalarni issiqlik energiya bilan ta’minlash;",
+              option3: "Bir issiqlik manbadan bir nechta xonalarni issiqlik energiya bilan ta’minlash;",
+              option4: "Bir nechta issiqlik manbadan bir va bir nechta ist’emolchilarni issiqlik energiya bilan ta’minlash;",
+              ans: 1
+            },
+            {
+              question: "1 kvt*soat , kjoul ga o’tkazilsin…",
+              option1: "3600",
+              option2: "4219",
+              option3: "2200",
+              option4: "360",
+              ans: 1
+            },
+            {
+              question: "Pezometrik grafikni kurishdan maksad nima?",
+              option1: "Taromkning normal ishlashini ta‘minlovchi nasosni va yordamchi jixozlarini to’g’ri tanlash uchun tarmoqda bosimning umumiy kamayishi va tarmoqning har bir nuktasidagi bosim qiymatlarini bilish.",
+              option2: "Tarmoqdagi bosim kamayishini bilish.",
+              option3: "Taromkning butun uzunligi bo’yicha bosim qiymatlarini bilish;",
+              option4: "Quvur diametrini tanlash.",
+              ans: 1
+            },
+            {
+              question: "IEM ning qanday sxemalarini bilasiz?",
+              option1: "PT, T va R turdagi turbinali sxemalar;",
+              option2: "PT trubinali;",
+              option3: "T utrubinali;",
+              option4: "R turbinali",
+              ans: 1
+            },
+            {
+              question: "Keng qo’llaniladigan isitish tizimlar -…",
+              option1: "Ikki quvurli, ochiq ulangan tarmoqlar",
+              option2: "Ko’p quvurli, ochiq ulangan tarmoqlar",
+              option3: "Ikki quvurli, yopiq ulangan tarmoqlar",
+              option4: "Bir quvurli, ochiq ulangan tarmoqlar",
+              ans: 1
+            },
+            {
+              question: "Dastlabki sinovni o’tkazish sharti …",
+              option1: "Salniklli kompensatorlar o’rnatilishidan oldin",
+              option2: "П simon kompensatorlar o’rnatilishidan oldin",
+              option3: "Klapanlar o’rnatilishidan oldin",
+              option4: "Zadvijkalar o’rnatilishidan oldin",
+              ans: 1
+            },
+            {
+              question: "Yakuniy sinovni o’tkazish sharti …",
+              option1: "Montajdan so’ng",
+              option2: "Salniklli kompensatorlar o’rnatilishidan oldin",
+              option3: "П simon kompensatorlar o’rnatilishidan oldin",
+              option4: "Klapanlar o’rnatilishidan oldin",
+              ans: 1
+            },
+            {
+              question: "Sinovlarni o’tkazishga ruxsat etilgan eng past harorati …",
+              option1: "5ºC",
+              option2: "8ºC",
+              option3: "10ºC",
+              option4: "4ºC",
+              ans: 1
+            },
+            {
+              question: "Issiqlik tarmoqlarni sinov turlari …",
+              option1: "Opressovka, gidravlik, issiqlik, hisobiy haroratga sinash.",
+              option2: "Gidravlik, issiqlik, hisobiy haroratga sinash.",
+              option3: "Opressovka, gidravlik, issiqlik.",
+              option4: "Opressovka, issiqlik, hisobiy haroratga sinash",
+              ans: 1
+            },
+            {
+              question: "426*400*9 markali quvurda birinchi raqam nimani belgilaydi",
+              option1: "Quvurning tashqi diametrini",
+              option2: "Quvurning ichki diametrini",
+              option3: "Quvur devorchasini qalinligini",
+              option4: "Suvning bosimini",
+              ans: 1
+            },
+            {
+              question: "426*400*9 markali quvurda ikkinchi raqam nimani belgilaydi",
+              option1: "Quvurning ichki diametrini",
+              option2: "Quvurning tashqi diametrini",
+              option3: "Quvur devorchasini qalinligini",
+              option4: "Suvning bosimini",
+              ans: 1
+            },
+            {
+              question: "Tarmoqning issiqlik hisobning vazifasi nimadan iborat?",
+              option1: "tarmoqdagi issiqlik yo’qotilishlarini aniqlab issiqlik izolyatsiyasini tanlashga;",
+              option2: "ma‘lum bo’lgan issiqlik tashuvchining sarfi va tarmoqdagi bosim yo’qotilishlari bo’yicha quvur diametrlarini aniqlashga;",
+              option3: "sistemaning turli nuqtalarida bosim va sarf orasidagi bog’lanishlarga;",
+              option4: "issiqlik izolyatsiyasiga uzatilgan issiqlik uzgarmas miqdorda atrof muxitga uzatilishiga",
+              ans: 1
+            },
+            {
+              question: "Aholining issiqlikka bo’lgan talabini qo’ndirish uchun qanday qurilmalardan foydalaniladi?",
+              option1: "suv qizdirish qozonxonalari va IEM dan.",
+              option2: "faqat suv qizdirish qozonxonalaridan;",
+              option3: "T turbinali ES dan;",
+              option4: "faqat IEM dan",
+              ans: 1
+            },
+            {
+              question: "Organik yoqilg’ida ishlaydigan issiqlik manbalar…",
+              option1: "IES;. TQ",
+              option2: "KES; GES",
+              option3: "AES; gelio stansiyalar;",
+              option4: "GES; AES",
+              ans: 1
+            },
+            {
+              question: "Issiqlik tarmoqlarni issiqlik sinovida nimalar o’lchanadi?",
+              option1: "Quvurni boshida va oxirida suvning sarfi va harorati;",
+              option2: "Quvurni boshida va oxirida suvning bosimi, sarfi va harorati;",
+              option3: "Quvurni boshida suvning sarfi va harorati;",
+              option4: "Quvurni boshida va oxirida suvning bosimi va sarfi",
+              ans: 1
+            },
+            {
+              question: "Issiqlik tarmoqlarni gidravlik sinovida nimalar o’lchanadi?",
+              option1: "Quvurni boshida va oxirida suvning bosimi, sarfi va harorati;",
+              option2: "Quvurni boshida va oxirida suvning sarfi va harorati",
+              option3: "Quvurni boshida suvning sarfi va harorati;",
+              option4: "Quvurni boshida va oxirida suvning bosimi va sarfi",
+              ans: 1
+            },
+            {
+              question: "Tarmoq suvi nima yordamida dezenfeksiyalanadi?",
+              option1: "Faol xlor;",
+              option2: "Osh tuzi;",
+              option3: "Magniy eritmasi;",
+              option4: "Oltingugurt eritmasi.",
+              ans: 1
+            },
+            {
+              question: "Odatda suvli tarmoqlarda qaysi birktirish armaturasi qo’llaniladi",
+              option1: "Zulfinlar",
+              option2: "Ventil",
+              option3: "Drossel",
+              option4: "Shiber",
+              ans: 1
+            },
+            {
+              question: "Odatda bug’li tarmoqlarda qaysi birktirish armaturasi qo’llaniladi",
+              option1: "Ventil",
+              option2: "Zulfinlar",
+              option3: "Drossel",
+              option4: "Shiber",
+              ans: 1
+            },
+            
+              {
+                question: "426*400*9 markali quvurda uchinchi raqam nimani belgilaydi",
+                option1: "Quvur devorchasini qalinligini",
+                option2: "Quvurning ichki diametrini",
+                option3: "Quvurning tashqi diametrini",
+                option4: "Suvning bosimini",
+                ans: 1
+              },
+              {
+                question: "Issiqlik tarmoqlarni ishga turishini ruxsat beruvchi tashkilot –",
+                option1: "Davlat hay’ati",
+                option2: "Shahar hokimiyati",
+                option3: "Mahalla hay’ati",
+                option4: "Qurvchi tashkilot",
+                ans: 1
+              },
+              {
+                question: "Issiqlik ta‘minoti tizimlari boshqarmasida ulanishlar xizmati kimga bo’ysunadi?",
+                option1: "Bosh muxandisga",
+                option2: "Direktorga",
+                option3: "Devonxonaga",
+                option4: "Reja – iqtisod bo’limiga",
+                ans: 1
+              },
+              {
+                question: "Shtatlar soni deb nimaga aytiladi?",
+                option1: "Issiqlik tarmog’iga ulangan yuklamaning 1 Gkal/soatiga to’g’ri kelgan xodimlar soniga aytiladi",
+                option2: "Issiqlik tarmog’iga ulangan yuklamaning 10 Gkal/soatiga to’g’ri kelgan xodimlar soniga aytiladi",
+                option3: "Issiqlik tarmog’iga ulangan yuklamaning 10 Gkal/soatiga to’g’ri kelgan xodimlar soniga aytiladi",
+                option4: "Issiqlik tarmog’iga ulangan yuklamaning 10 % Gkal/soatiga to’g’ri kelgan xodimlar soniga aytiladi",
+                ans: 1
+              },
+              {
+                question: "Keng qo’llaniladigan ichki isitish tizimlar -…",
+                option1: "П –simon tik quvurli tizimlar",
+                option2: "P –simon tik quvurli tizimlar",
+                option3: "П –simon gorizontal quvurli tizimlar",
+                option4: "Tik quvurli tizimlar.",
+                ans: 1
+              },
+              {
+                question: "Bug’ bilan isitish tizimlarida bug’ning harorati … oshmasligi kerak",
+                option1: "130ºC",
+                option2: "155ºC",
+                option3: "180ºC",
+                option4: "190ºC",
+                ans: 1
+              },
+              {
+                question: "Havo bilan isitish tizimlarida havoning harorati …",
+                option1: "60ºC",
+                option2: "55ºC",
+                option3: "80ºC",
+                option4: "90ºC",
+                ans: 1
+              },
+              {
+                question: "Havo qizdiruvchi qurilma…",
+                option1: "kalorifer",
+                option2: "ventilyator",
+                option3: "Issiqlik almashinuv apparati",
+                option4: "Ekonamayzr",
+                ans: 1
+              },
+              {
+                question: "Noan’aviy isitish manbalar…",
+                option1: "Quyosh, geotermal suvlar",
+                option2: "Quyosh, suyuq yoqig’i, suvlari",
+                option3: "Quyosh, mazut",
+                option4: "Quyosh, shamol",
+                ans: 1
+              },
+              {
+                question: "Quyosh isitish tizimlari radiatsiyadan foydalanishi bo’yicha qanday turlarga bo’linadi…",
+                option1: "Passiv va aktiv",
+                option2: "Kollektorli va kollektorsiz",
+                option3: "Radiatsiyalangan va radiatsiya tushmaydigan",
+                option4: "Passiv va aktiv va zonali",
+                ans: 1
+              },
+              {
+                question: "Bino ichidagi havo harorati quyidagiga bog’liq bo’ladi",
+                option1: "isitiladigan binoning vazifasiga",
+                option2: "tashqi havo haroratiga",
+                option3: "issiqlik tashuvchi turiga",
+                option4: "isitish tizimining ulanishiga",
+                ans: 1
+              },
+              {
+                question: "Aholining issiqlikka bo’lgan talabini ko’ndirish uchun qanday qurilmalardan foydalaniladi?",
+                option1: "suv qizdirish qozonxonalari va IEM dan",
+                option2: "faqat suv qizdirish qozonxonalaridan",
+                option3: "T turbinali ES dan",
+                option4: "faqat IEM dan",
+                ans: 1
+              },
+              {
+                question: "Oqim turini (laminar yoki turbulent) aniqlash uchun qaysi kreteriydan foydalaniladi…",
+                option1: "Reynolds",
+                option2: "Prandtl",
+                option3: "Nusselt",
+                option4: "Fure",
+                ans: 1
+              },
+              {
+                question: "Quvurning ekvivalent diametrning miqdori qaysi ko’rsatkichlarga bog’liq?",
+                option1: "quvurning ko’ndalang qirqim yuzasiga va namlangan perimetrga",
+                option2: "quvurning ko’ndalang qirqim yuzasiga va quvur qalinligiga",
+                option3: "namlangan perimetrga va quvur qalinligiga",
+                option4: "namlangan perimetrga va quvur uzunligiga",
+                ans: 1
+              },
+              {
+                question: "Texnologik extiyojlar uchun issiqlik sarfi qaysi ko’rsatkichlar kiradi?",
+                option1: "Korxonani unumdorligi va bir maxsulot uchun sarflanadigan issiqlik miqdori",
+                option2: "Korxonani unumdorligi va xodimlar soni",
+                option3: "Korxonani quvvati va bir maxsulot uchun sarflanadigan issiqlik miqdori",
+                option4: "Korxonani elektr energiya sarfi va bir maxsulot uchun sarflanadigan issiqlik miqdori",
+                ans: 1
+              },
+              {
+                question: "Nechanchi yillarda O‘rta Osiyoda markazlashtirilgan issiqlik ta’minoti rivojlana boshladi?",
+                option1: "1928-1930 yillarda",
+                option2: "1930-1941 yillarda",
+                option3: "1920-1930 yillarda",
+                option4: "1918-1930 yillarda",
+                ans: 1
+              },
+              {
+                question: "Qachonga markazlashtirilgan issiqlik ta’minoti g‘oyasining paydo bo‘lishi to‘g‘ri kеladi?",
+                option1: "1877 yili AQSh ning Lokport shahrida markazlashtirilgan issiqlik ta’minoti uchun birinchi qurilma barpo etildi",
+                option2: "1777 yili AQSh ning Lokport shahrida markazlashtirilgan issiqlik ta’minoti uchun birinchi qurilma barpo etildi",
+                option3: "1907 yili Sankt-Peterburg shahrida markazlashtirilgan issiqlik ta’minoti uchun birinchi qurilma barpo etildi",
+                option4: "1877 yili Moskva shahrida markazlashtirilgan issiqlik ta’minoti uchun birinchi qurilma barpo etildi",
+                ans: 1
+              },
+              {
+                question: "IEM da issiqlik va elеktr enеrgiyasini qurama usulda ishlab chiqarish uchun yoqilg‘ining umuiy sarfi quyidagilardan iborat…",
+                option1: "elеktr enеrgiyasini va issiqlik ishlab chiqarish uchun yoqilg‘I sarflarning yig’indisi",
+                option2: "elеktr enеrgiyasini va issiqlik ishlab chiqarish uchun yoqilg‘i sarflarning ko’paytmasi",
+                option3: "elеktr enеrgiyasini va issiqlik ishlab chiqarish uchun yoqilg‘i sarflarning ayirmasi",
+                option4: "elеktr enеrgiyasini va issiqlik ishlab chiqarish uchun yoqilg‘i sarflarning farqi",
+                ans: 1
+              },
+              {
+                question: "Shartli yoqilg’i deb nimaga aytiladi?",
+                option1: "Issiqlik ajratishi 7000 kkal/kg ga teng bo’lgan yoqilg’i",
+                option2: "Issiqlik ajratishi 7003 kkal ga teng bo’lgan yoqilg’i",
+                option3: "Issiqlik ajratishi 7000 kj/kg ga teng bo’lgan yoqilg’i",
+                option4: "Issiqlik ajratishi 7050 kkal/kg ga teng bo’lgan yoqilg’i",
+                ans: 1
+              },
+              {
+                question: "Qaysi yuklamaning sarfi hafta davomida o‘rtacha sarfi uning bir kеcha-kunduzdagi mе’yori asosida aniqlanadi?",
+                option1: "issiq suv",
+                option2: "isitish",
+                option3: "ventilyatsiya",
+                option4: "texnologik extiyojlar",
+                ans: 1
+              },
+              {
+                question: "Tеxnologik extiyojlarga ishlatiladigan issiqlik nimalarga bog’lik?",
+                option1: "jarayonning xususiyatga, ishlab chiqarish jihozlarining turiga, ishni tashkil qilish darajasiga va boshqalarga bog‘liq bo‘ladi",
+                option2: "jarayonning xususiyatga, ishlab chiqarish jihozlarining turiga, ishni tashkil qilish darajasiga va tashqi havo haroratiga bog‘liq bo‘ladi",
+                option3: "ishlab chiqarish jihozlarining turiga, ishni tashkil qilish darajasiga va boshqalarga bog‘liq bo‘ladi",
+                option4: "jarayonning xususiyatga, tashqi havo haroratiga, ishni tashkil qilish darajasiga va boshqalarga bog‘liq bo‘ladi",
+                ans: 1
+              },
+              {
+                question: "Turar joy binolarida isitish uchun sarflanadigan maksimal issiqlik oqimi nimalarga bog’liq?",
+                option1: "binoning solishtirma issiqlik tavsifi, ichki va tashqi havoning hisobiy haroratlariga, binoning tashqi hajmiga",
+                option2: "ichki va tashqi havoning hisobiy haroratlariga, binoning tashqi hajmiga",
+                option3: "binoning solishtirma issiqlik tavsifi, ichki havoning hisobiy haroratiga, binoning tashqi hajmiga",
+                option4: "binoning solishtirma issiqlik tavsifi, ichki va tashqi havoning hisobiy haroratlariga,",
+                ans: 1
+              },
+              {
+                question: "Mavsumiy yuklamaning grafigi qurish uchun absissa va ordinata o‘qlari bo’yicha qaysi ko’rsatkichlar qo’yib chiqiladi?",
+                option1: "absissada isitish mavsuminnig davomiyligi soatlarda va tashqi havoning harorati quyiladi, ordinata o‘qi bo’yicha esa, soatli sarfi",
+                option2: "absissada isitish mavsuminnig davomiyligi soatlarda quyiladi, ordinata o‘qi bo’yicha esa, soatli sarfi",
+                option3: "absissada tashqi havoning harorati quyiladi, ordinata o‘qi bo’yicha esa, soatli sarfi",
+                option4: "absissada isitish mavsuminnig davomiyligi soatlarda quyiladi, ordinata o‘qi bo’yicha esa, tashqi havoning harorati",
+                ans: 1
+              },
+              {
+                question: "Qaysi olim tomonidan issiqlik ta’minotining bir quvuri tizimi ishlab chiqildi va amalda qo‘llash uchun taklif qilindi?",
+                option1: "L. A. Mеlеntеv",
+                option2: "L.K. Ramzin",
+                option3: "L. Vukolovich",
+                option4: "E.E. Sokolov",
+                ans: 1
+              },
+              {
+                question: "Bir quvuri tizimni asosiy g‘oyasi nimada?",
+                option1: "isitish qurilmasidan kеyin issiq suv ta’minotiga bеrilgan tarmoq suvining hammasi unda foydalaniladi",
+                option2: "isitish qurilmasidan kеyin issiq suv ni stansiyaga qaytarish",
+                option3: "isitish qurilmasidan kеyin issiq suvni qaytadan isitish qurilmasida ishlatish",
+                option4: "issiq suv ta’minotiga bеrilgan tarmoq suvining hammasi unda foydalaniladi",
+                ans: 1
+              },
+              {
+                question: "Ochiq tizimlarning yopiq tizimlarga nisbatan afzaligi:",
+                option1: "elektr stansiyasida va sanoat korxonalarida ishlatilgan past haroratli suvni issiq suv ta’minoti uchun foydalanish imkoni mavjudligi",
+                option2: "stansiyada suvning tayyorlanishi murakkabligi va qimmatligi",
+                option3: "iste’molchilarga berilayotgan suvning sifati sanitariya tozalik va salomatlik talablariga javob bermasligi",
+                option4: "issiqlik ta’minoti tizimi ustidan o‘tkaziladigan sanitariya nazoratining murakkabligi",
+                ans: 1
+              },
+              {
+                question: "Gidravlik hisoblashning vazifasiga kirmayadigan vazifa:",
+                option1: "issiqlik qoplamani tanlash",
+                option2: "quvurning diamеtrini aniqlash",
+                option3: "bosim (siquv)ning kamayishini aniqlash",
+                option4: "tarmoqning turli nuqtalaridagi bosimlarni aniqlash",
+                ans: 1
+              },
+              {
+                question: "To’la naporni aniqlovchi ifodasiga nimalar kiradi?",
+                option1: "pеzomеtrik napor bilan quvur o‘qining hisoblar tеkisligiga nisbatan balandligining yig‘indisiga tеng",
+                option2: "pеzomеtrik napor bilan quvur o‘qining hisoblar tеkisligiga nisbatan balandligining farqiga tеng",
+                option3: "pеzomеtrik napor bilan quvur o‘qining hisoblar tеkisligiga nisbatan balandligining ko’paytmasiga tеng",
+                option4: "pеzomеtrik napor bilan quvur o‘qining hisoblar tеkisligiga nisbatan balandligining ayirmasiga tеng",
+                ans: 1
+              },
+              {
+                question: "Gidravlik hisobni bajarish uchun nimalar ma’lum bo’lishi kerak?",
+                option1: "issiqlik tarmog‘ining chizma tasviri, issiqlik tashuvchi moddaning sarfi va paramеtrlari, tarmoq qismlarining uzunligi",
+                option2: "issiqlik tarmog‘ining chizma tasviri, tarmoq qismlarining uzunligi",
+                option3: "issiqlik tarmog‘ining chizma tasviri, issiqlik tashuvchi moddaning sarfi va paramеtrlari",
+                option4: "issiqlik tarmog‘ining chizma tasviri, issiqlik tashuvchi moddaning sarfi, tarmoq qismlarining uzunligi",
+                ans: 1
+              },
+              {
+                question: "Qaysi olim tonidan elevator sxеmasi ishlab chiqilgan.",
+                option1: "V. M. Chaplin",
+                option2: "L. A. Mеlеntеv",
+                option3: "L.K. Ramzin",
+                option4: "L. Vukolovich",
+                ans: 1
+              },
+              {
+                question: "Qurilmaning kоnstruktiv hisоbidаn mаqsаd nima?",
+                option1: "qurilmаning аsоsiy o’lchаmlаrini tоpish",
+                option2: "issiqlik almashinuv yuzаsi F ni tоpish",
+                option3: "qurimаning qаrshiliklаrini tоpish",
+                option4: "issiqlik tаshuvchilаrning bоsimini аniqlаsh",
+                ans: 1
+              },
+              {
+                question: "Qurilmaning gidrаvlik hisоbidаn mаqsаd nima?",
+                option1: "qurilmаning qаrshiliklаrini tоpish",
+                option2: "issiqlik almashinuv yuzаsi F ni tоpish",
+                option3: "qurilmаning аsоsiy o’lchаmlаrini tоpish",
+                option4: "issiqlik tаshuvchilаrni hаrоrаtlаrini аniqlаsh",
+                ans: 1
+              },
+              {
+                question: "Qurilmaning mеxаnik hisоbidаn mаqsаd nima?",
+                option1: "qurilmа mustаhkаmligini аniqlаsh",
+                option2: "qurilmаning аsоsiy o’lchаmlаrini tоpish",
+                option3: "qurilmаning qаrshiliklаrini tоpish",
+                option4: "kuchlаnishlаrni hisоblаsh",
+                ans: 1
+              }
+            
+            
+          ]
+          
+        
+        
         
         
        
