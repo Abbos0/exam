@@ -98,14 +98,12 @@ const Quiz = () => {
         setScore(0);
         setSeconds(2200);
     };
-
     const Exit = () => {
         setLock(false);
         setResult(false);
         setScore(0);
         dispatch(signIn({ loggedIn: false }));
     };
-
     useEffect(() => {
         if (seconds > 0) {
             const timer = setTimeout(() => {
