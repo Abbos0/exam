@@ -97,9 +97,9 @@ useEffect(() => {
                 <div className=' text-center border-solid rounded-[30px] mt-16 w-[400px] lg:w-[800px] md:w-[600px] p-4 text-white'>
                     {result ? <h1 className=' text-[white] font-bold text-[40px]'>Your score is {score}</h1>:
                         <>
-                            {/* <div className='p-3 font-bold text-[30px] text-[red]'>
+                            <div className='p-3 font-bold text-[30px] text-[red]'>
                                 {seconds > 0 ? ( <h1>{Math.floor(seconds / 60)}:{seconds % 60}</h1> ) : ( <h1>Timer finished!</h1>)}
-                            </div> */}
+                            </div>
                             <div className='flex justify-center font-bold text-[20px] text-[black]'>
                                 <div className='flex flex-col items-start'>
                                     <h1>Name :</h1>
@@ -116,9 +116,6 @@ useEffect(() => {
                                     <p>{index}</p>/<p className='text-[26px]'>{data.length}</p>
                                 </div>
                                 <div className='flex p-2 bg-green'>
-                                <div className='p-3 font-bold text-[30px] text-[red]'>
-                                {seconds > 0 ? ( <h1>{Math.floor(seconds / 60)}:{seconds % 60}</h1> ) : ( <h1>Timer finished!</h1>)}
-                            </div>
                                     <h2 className=' text-start  w-[60%]'>{index}. {question.question}</h2>
                                         <div className='flex flex-col justify-start w-[200px]  '>
                                             <p className='border-[4px] border-solid border-[#00f7ff] rounded-[20px] mb-4 bg-[white] text-[black] cursor-pointer' ref={Option1}  onClick={(e)=>checkAns(e,1)} >{question.option1}</p>
@@ -128,7 +125,6 @@ useEffect(() => {
                                         </div>
                                 </div>
                             </div>
-                            
                             <p className='text-[white] font-bold bg-[green] text-[30px] mt-[-60px] w-[200px] rounded-[20px] cursor-pointer' onClick={Next}>Next 👉</p>
                         </>
                     }
