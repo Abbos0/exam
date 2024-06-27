@@ -163,7 +163,10 @@ const Quiz = () => {
                                         </div>
                                     </div>
                                 )}
+                                <div className='flex  flex-wrap cursor-pointer'>
                                 <p className='text-[white] font-bold bg-[green] text-[30px] mt-[20px] w-[200px] rounded-[20px] cursor-pointer' onClick={Next}>Next</p>
+                                <p className='text-[white] font-bold bg-[green] text-[30px] mt-[20px] w-[200px] rounded-[20px] cursor-pointer' > <a  href="https://exam-seven-theta.vercel.app/"target='blank' type="button" class="bg-[red] border  p-[3px] ">Contact Me</a></p>
+                                </div>
                             </>
                         }
                         <div className='flex justify-center gap-5'>
