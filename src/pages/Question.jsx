@@ -1,5 +1,8 @@
 
 
+
+
+
 import React, { useEffect, useRef, useState } from 'react';
 import { data } from '../database/questions.db';
 import { useDispatch, useSelector } from 'react-redux';
@@ -24,8 +27,6 @@ const Quiz = () => {
     const Option4 = useRef(null);
 
     const option_arr = [Option1, Option2, Option3, Option4];
-
-    // Utility function to shuffle an array
     const shuffleArray = (array) => {
         for (let i = array.length - 1; i > 0; i--) {
             const j = Math.floor(Math.random() * (i + 1));
@@ -35,9 +36,7 @@ const Quiz = () => {
     };
 
     useEffect(() => {
-        // Shuffle questions and pick the first 50
         const shuffledQuestions = shuffleArray([...data]).slice(0, 50);
-        // Shuffle options for each question
         const randomizedQuestions = shuffledQuestions.map(q => {
             const options = shuffleArray([
                 { text: q.option1, isCorrect: q.ans === 1 },
@@ -181,6 +180,25 @@ const Quiz = () => {
 }
 
 export default Quiz;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
